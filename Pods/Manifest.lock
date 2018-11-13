@@ -1,0 +1,16 @@
+PODS:
+  - Cleanse (4.1.1)
+
+DEPENDENCIES:
+  - Cleanse
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Cleanse
+
+SPEC CHECKSUMS:
+  Cleanse: 85bda79290d37c078e9694f74e3c218ae5a92ef0
+
+PODFILE CHECKSUM: dad7bd80386570b26b3d7b994a4be4c7c9f77af6
+
+COCOAPODS: 1.5.3

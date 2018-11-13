@@ -1,0 +1,6 @@
+framework module Pods_CleanseDemo {
+  umbrella header "Pods-CleanseDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
